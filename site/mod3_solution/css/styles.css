@@ -1,0 +1,22 @@
+
+
+/** Header **/
+#header-nav {
+	background-color: #659EC7;
+	border-radius: 0;
+	border: 0;
+}
+
+.navbar-brand {
+	color: #777;
+	font-size: 2em;
+}
+
+#main-content .row {
+	background-color: #8cbb93;
+}
+
+#nav-list {
+	background-color: #ff8080;
+	font-size: 1.5em;
+}  
