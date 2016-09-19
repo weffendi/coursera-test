@@ -22,3 +22,8 @@
 	margin-top: 0;
 	margin-bottom: 0;
 }  
+
+#nav-list a {
+	text-align:center;
+	outline: 1px solid black;
+}
